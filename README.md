@@ -1,7 +1,5 @@
 # Ping-Pong-BDD
 
-Classwork
-
 Ping-Pong with BDD
 To start off our first week of Java, we are going to recreate the Ping-Pong application using BDD. It should have a method that accepts a number and returns a list of numbers and Strings that correspond to the Ping-Pong solution. This time, have the method return an ArrayList (i.e app.pingPong(7) returns [1, 2, "ping", 4, "pong", "ping", 7]).
 
